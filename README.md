@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI, Web3 Projects<br>👯 I’m looking to collaborate on Tech research, hackathons, or startups<br>🤝 I’m looking for help with deploying ML models and scaling solutions<br>🌱 I’m currently learning GenAI, ML ops, and system design<br>💬 Ask me about algorithms, AI trends, or building fast prototypes<br>⚡ Fun fact I name my variables better than my playlists
+🔭 I’m currently working on AI, Web3 Projects<br>👯 I’m looking to collaborate on hackathons and startups<br>🌱 I’m currently learning Agentic AI<br>⚡ Fun fact I name my variables better than my playlists
 
 
 ## 🌐 Socials:
