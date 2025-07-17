@@ -14,6 +14,3 @@ I build exceptional digital experiences with modern technologies. Specialized in
 🖥️ See my portfolio at (Coming Soon).  
 ✉️ You can contact me at [ankitgupta18k@gmail.com](mailto:ankitgupta18k@gmail.com)  
 🤝 I'm open to collaborating on Open Source Projects and Freelance  
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=swamimalode07&label=Profile%20views&color=0e75b6&style=flat" alt="swamimalode07" /> 
-</p>
