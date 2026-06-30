@@ -69,6 +69,6 @@ Feel free to contact me via the following links:
             <img alt="Ankit Gupta's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
         </a>
         <a href="https://x.com/100dys_">
-            <img alt="Ankit Gupta's X" width="32px" src="https://img.icons8.com/ios-filled/320/twitterx.png" />
+            <img alt="Ankit Gupta's X" width="32px" src="https://img.icons8.com/color/344/twitterx.png" />
         </a>
 </div>
