@@ -69,3 +69,18 @@ I am now working on multimodal models, specifically image and text, handling lar
 </p>
 
 
+## Contact Me
+
+Feel free to contact me via the following links:
+
+<div align="center">
+        <a href="https://www.linkedin.com/in/ankitxgpt/">
+            <img alt="Ankit Gupta's LinkedIn" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
+        </a>
+        <a href="mailto:ankitgupta18k@gtmail.com">
+            <img alt="Ankit Gupta's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
+        </a>
+
+</div>
+
+
