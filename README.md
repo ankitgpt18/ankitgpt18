@@ -20,11 +20,11 @@ I am now working on multimodal models, specifically image and text, handling lar
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn" alt="Scikit-Learn" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" alt="MATLAB" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=latex" title="LaTeX" alt="LaTeX" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="40" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="40" />&nbsp;
