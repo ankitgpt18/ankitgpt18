@@ -15,8 +15,20 @@ Overall, I am a fast learner, highly motivated, and always eager to take on new 
 I am now working on multimodal models, specifically image and text, handling large datasets. Ready to join innovative and challenging projects :)
 
 ## Programming Languages, Technologies and Tools 
-<p align="center"> 
-<a href="https://github.com/ankitgpt18" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,js,ts,nextjs,docker,postgres,mongodb,git,html,css,vscode&perline=18" /> </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn" alt="Scikit-Learn" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" alt="Pandas" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" alt="Jupyter" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="40" />
 <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
