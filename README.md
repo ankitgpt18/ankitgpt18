@@ -2,7 +2,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=B.Tech.+-+Artificial+Intelligence;AI+%26+ML+Enthusiast;)](https://github.com/ReyhanehAhani)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;)](https://github.com/ankitgpt18)    
 </div>
 
 # About me
