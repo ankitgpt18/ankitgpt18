@@ -83,4 +83,4 @@ Feel free to contact me via the following links:
 
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/ankitgpt18/count.svg)
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
