@@ -83,4 +83,4 @@ Feel free to contact me via the following links:
 
 </div>
 
-<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+![](https://komarev.com/ghpvc/?username=your-github-username)
